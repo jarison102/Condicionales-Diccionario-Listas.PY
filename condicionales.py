@@ -79,6 +79,32 @@ else:
 
     if not mi_cadena_negada:
         print("mi cadena de texto es vacia")
+#########################################################################
+    ##edad=int (input("cuantos años tienes?"))
+    ##if edad >18:
+      ##  print("usted ya es mayor")
+    ##else:
+        ##print("le falta años")
+######################################################
+    nombre =(input("Cuales tu nombre:")) 
+    if nombre== "Jarison":
+        print("usted si es Jarison Bienvenido")
+    elif nombre == "pedro":
+         print("Usted es el administrador")
+    else:
+        print("Usted no esta en lista")
+
+
+#################################################
+
+    bitacora =(input("has echo las mitacoras:?")) 
+    if bitacora== "no":
+        print("usted no a echo las bitacoras michi")
+    elif nombre == "si":
+         print("Pongase jusiosa michi")
+    else:
+        print("Michiii has esooooo")
+
 
 
 
